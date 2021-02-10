@@ -1,5 +1,5 @@
 {
-  "name": "wr-sjv",
+  "name": "rabbitmq-ts",
   "version": "1.0.0",
   "scripts": {
     "build": "webpack --config webpack.prod.config.js",
