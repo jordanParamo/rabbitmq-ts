@@ -4,14 +4,7 @@ Create an App of your Tech-Stack Choice that is listed here => https://www.rabbi
  
 
 Receive the Data from the rabbitmq
-- 20.52.149.215:5672 (data access)
-- 20.52.149.215:15672 (UI Management Access)
-- Login: jordan
-- Pass: u8934ruih23ren2
-- use the vhost "test"
-- Queue : WindDetails_Queue
-
- 
+- REDACTED
 
 (group by ID)
 
