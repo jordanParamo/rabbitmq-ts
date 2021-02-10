@@ -11,18 +11,10 @@ Receive the Data from the rabbitmq
  
 
 Generate Avergale 5 Minute Data (aggregate) from the following Values:
-- ActivePower
-- LoadFactor
-- WindSpeed
+- REDACTED
 
  
 
 
 With the Avergae Data, display the Last data you get for this Values (no Timestamp):
-- NumberOfTurbines
-- TotalCapacity
-- StateFA
-- StateWA
-- StateAV
-- StateNC
-- WindDirection
+- REDACTED
