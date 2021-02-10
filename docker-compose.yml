@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  typescript:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: codingnative/typescript
+    volumes:
+    - ./app:/usr/src/app
+    env_file:
+      - .docker/dev/.env/node.env
+    ports:
+    - "33304:33304"
+    tty: true
